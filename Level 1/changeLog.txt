@@ -1,0 +1,22 @@
+************************************
+12.09.2014 - VERSION 0.0002 - STEINI
+************************************
+->  Tür kann jetzt geöffnet werden
+    -> keine Überprüfung durch hitTest, sondern durch Standard-Abfrage der Position
+    
+->  GAME_VERSION Variable wird nun unten rechts im Bildschirm angezeigt
+    -> bei Änderungen am besten Aktualisieren (auch hier im changeLog.txt)
+    
+->  Fenster mit der Ladeanzeige für assets scrolled nun automatisch ans Ende, sobald ein
+    neues Asset geladen wird
+->  Schriftgrösse der Ladeanzeige angepasst
+
+->  Utilitie-Funktionen nun ausgelagert nach ../lib/robotnik.js und aus den einzelnen logik.js entfernt 
+    Sorgt für bessere Übersichtlichkeit (auch in Level 2)
+
+
+************************************
+28.08.2014 - VERSION 0.0001 - FELIX 
+************************************
+
+->  Einführung der Versionsnummern und Changelog
